@@ -52,7 +52,8 @@ const html = `
   </head>
   <body>
     <section>
-      Hello from Render!
+      Welcome to Render.com. 
+      Happy to share you from node application.
     </section>
   </body>
 </html>
